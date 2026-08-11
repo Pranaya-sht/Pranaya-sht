@@ -1,47 +1,118 @@
-# Pranaya-sht
+<div align="center">
 
-# Hi there, I'm Pranaya Shrestha 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00599C,100:6A11CB&height=220&section=header&text=Hi%20There,%20I'm%20Pranaya%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20Student%20%40%20Kathmandu%20University&descAlignY=55&descSize=18&descColor=ffffff" width="100%"/>
 
-<p align="left">
-  <a href="https://github.com/Pranaya-sht">
-    <img src="https://img.shields.io/badge/Computer_Engineering-Kathmandu_University-00599C?style=flat-square" alt="Kathmandu University">
-  </a>
-  <img src="https://img.shields.io/badge/Location-Nepal-red?style=flat-square" alt="Nepal">
-</p>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=00599C&center=true&vCenter=true&width=650&lines=Software+Engineer+in+the+Making+%F0%9F%92%BB;Building+AI-Powered%2C+Human-Centric+Apps+%F0%9F%A4%96;Passionate+About+NLP+%26+Conversational+AI;Currently+Open+to+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
 
----
+<br/>
 
-### 💻 About Me
+<img src="https://komarev.com/ghpvc/?username=Pranaya-sht&label=Profile%20Views&color=00599C&style=flat-square" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/Pranaya-sht?style=flat-square&color=00599C&label=Followers" alt="GitHub followers"/>
+<img src="https://img.shields.io/badge/Computer_Engineering-Kathmandu_University-00599C?style=flat-square" alt="Kathmandu University"/>
+<img src="https://img.shields.io/badge/Location-Nepal-red?style=flat-square" alt="Nepal"/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square&logo=hireme" alt="Open to Work"/>
 
-I am an undergraduate **Computer Engineering** student at **Kathmandu University** in Nepal. My focus is on software engineering and exploring how artificial intelligence can be applied to build helpful, human-centric systems.
+</div>
 
-- 🎓 **Education:** Pursuing a Bachelor's degree in Computer Engineering.
-- 💡 **Interests:** Web Application Development, NLP, and conversational AI agents.
-- 🌱 **Learning:** Scalable web architectures, database management, and deep learning basics.
-- 🤝 **Collaboration:** Interested in open-source projects, mental health tech initiatives, and collaborative development.
+<br/>
 
----
+## 💻 About Me
 
-### 🚀 Highlighted Project
+I'm an undergraduate **Computer Engineering** student at **Kathmandu University**, Nepal, focused on software engineering and on applying artificial intelligence to build helpful, human-centric systems.
 
-#### 🧠 [ManobalAI](https://github.com/Pranaya-sht/ManobalAI)
+```yaml
+Pranaya:
+  education: "B.E. in Computer Engineering, Kathmandu University"
+  interests: ["Web Application Development", "NLP", "Conversational AI Agents"]
+  currently_learning: ["Scalable Web Architectures", "Database Management", "Deep Learning"]
+  open_to: ["Software Engineering Roles", "Internships", "Open Source Collaboration"]
+  fun_fact: "I like turning research ideas into working, user-facing products."
+```
+
+<br/>
+
+## 🎯 What I'm Looking For
+
+<table>
+<tr>
+<td width="33%" align="center">🎓<br/><b>Internships & Entry-Level Roles</b><br/><sub>Software Engineering / Full-Stack Development</sub></td>
+<td width="33%" align="center">🧠<br/><b>AI/NLP-Focused Work</b><br/><sub>Applied ML, chatbots, conversational systems</sub></td>
+<td width="33%" align="center">🌍<br/><b>Remote or Nepal-Based</b><br/><sub>Open to relocation for the right opportunity</sub></td>
+</tr>
+</table>
+
+<br/>
+
+## 🚀 Highlighted Project
+
+<div align="center">
+
+### 🧠 [ManobalAI](https://github.com/Pranaya-sht/ManobalAI)
 *A supportive mental health companion chatbot designed to assist students and individuals navigating daily stress, isolation, or anxiety.*
-- **Focus:** Conversational AI, natural language support, and accessible mental health tooling.
-- **Technologies:** Python, NLP, Chatbot frameworks.
 
----
+<a href="https://github.com/Pranaya-sht/ManobalAI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pranaya-sht&repo=ManobalAI&theme=default&hide_border=true&title_color=00599C&text_color=333&icon_color=00599C" alt="ManobalAI repo card"/>
+</a>
 
-### 🛠️ Tech Stack & Skills
+`Python` · `NLP` · `Chatbot Frameworks` · `Mental Health Tech`
+
+</div>
+
+<br/>
+
+## 🛠️ Tech Stack & Skills
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,cpp,c,html,css,react,nodejs,mysql,git,github,vscode" alt="Tech stack icons"/>
+
+</div>
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) |
-| **Web Dev** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
-| **Databases & Versioning** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+| **Languages** | Python · JavaScript · C++ · C |
+| **Web Dev** | HTML5 · CSS3 · React · Node.js |
+| **Databases & Versioning** | MySQL · Git · GitHub |
+| **Exploring** | NLP · Chatbot Frameworks · Deep Learning |
 
----
+<br/>
 
+## 📊 GitHub Analytics
 
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=Pranaya-sht&show_icons=true&theme=default&hide_border=true&title_color=00599C&icon_color=00599C&text_color=333&count_private=true" alt="GitHub Stats" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranaya-sht&layout=compact&theme=default&hide_border=true&title_color=00599C&text_color=333" alt="Top Languages" width="38%"/>
 
+<img src="https://streak-stats.demolab.com/?user=Pranaya-sht&theme=default&hide_border=true&ring=00599C&fire=00599C&currStreakLabel=00599C" alt="GitHub Streak" width="60%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Pranaya-sht&theme=flat&no-frame=true&column=6&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
+
+</div>
+
+<br/>
+
+## 📫 Let's Connect
+
+<div align="center">
+
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://linkedin.com/in/your-linkedin-handle">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://your-portfolio-link.com">
+  <img src="https://img.shields.io/badge/Portfolio-00599C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://github.com/Pranaya-sht">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+*Thanks for stopping by — always open to a chat about software, AI, or opportunities to build something meaningful together.*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:00599C&height=100&section=footer" width="100%"/>
