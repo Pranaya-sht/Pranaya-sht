@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00599C,100:6A11CB&height=220&section=header&text=Hi%20There,%20I'm%20Pranaya%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20Student%20%40%20Kathmandu%20University&descAlignY=55&descSize=18&descColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00599C,100:6A11CB&height=200&section=header&text=Hi%20There%2C%20I%27m%20Pranaya&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20Student%20%40%20Kathmandu%20University&descAlignY=55&descSize=18&descColor=ffffff" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=00599C&center=true&vCenter=true&width=650&lines=Software+Engineer+in+the+Making+%F0%9F%92%BB;Building+AI-Powered%2C+Human-Centric+Apps+%F0%9F%A4%96;Passionate+About+NLP+%26+Conversational+AI;Currently+Open+to+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=00599C&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Building+Software+That+Solves+Real+Problems;Interested+in+NLP+%26+Applied+Machine+Learning;Currently+Building+SignBridge%2C+a+Real-Time+ASL+Platform;Open+to+Internships+%26+Software+Engineering+Roles" alt="Typing SVG" />
 
 <br/>
 
@@ -10,81 +10,130 @@
 <img src="https://img.shields.io/github/followers/Pranaya-sht?style=flat-square&color=00599C&label=Followers" alt="GitHub followers"/>
 <img src="https://img.shields.io/badge/Computer_Engineering-Kathmandu_University-00599C?style=flat-square" alt="Kathmandu University"/>
 <img src="https://img.shields.io/badge/Location-Nepal-red?style=flat-square" alt="Nepal"/>
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square&logo=hireme" alt="Open to Work"/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square" alt="Open to Work"/>
 
 </div>
 
 <br/>
 
-## 💻 About Me
+## About Me
 
-I'm an undergraduate **Computer Engineering** student at **Kathmandu University**, Nepal, focused on software engineering and on applying artificial intelligence to build helpful, human-centric systems.
+I'm an undergraduate Computer Engineering student at Kathmandu University, Nepal. I focus on software engineering, with a growing interest in applying machine learning and NLP to build things people can actually use.
 
 ```yaml
-Pranaya:
-  education: "B.E. in Computer Engineering, Kathmandu University"
-  interests: ["Web Application Development", "NLP", "Conversational AI Agents"]
-  currently_learning: ["Scalable Web Architectures", "Database Management", "Deep Learning"]
-  open_to: ["Software Engineering Roles", "Internships", "Open Source Collaboration"]
-  fun_fact: "I like turning research ideas into working, user-facing products."
+pranaya:
+  education: B.E. Computer Engineering, Kathmandu University
+  interests: [Web Development, NLP, Deep Learning]
+  currently_building: SignBridge - a real-time ASL translation platform
+  open_to: [Software Engineering Roles, Internships, Open Source Collaboration]
 ```
 
 <br/>
 
-## 🎯 What I'm Looking For
+## What I'm Looking For
 
 <table>
 <tr>
-<td width="33%" align="center">🎓<br/><b>Internships & Entry-Level Roles</b><br/><sub>Software Engineering / Full-Stack Development</sub></td>
-<td width="33%" align="center">🧠<br/><b>AI/NLP-Focused Work</b><br/><sub>Applied ML, chatbots, conversational systems</sub></td>
-<td width="33%" align="center">🌍<br/><b>Remote or Nepal-Based</b><br/><sub>Open to relocation for the right opportunity</sub></td>
+<td width="33%" align="center"><b>Internships & Entry-Level Roles</b><br/><sub>Software Engineering / Full-Stack Development</sub></td>
+<td width="33%" align="center"><b>AI / NLP-Focused Work</b><br/><sub>Applied ML, chatbots, conversational systems</sub></td>
+<td width="33%" align="center"><b>Remote or Nepal-Based</b><br/><sub>Open to relocation for the right opportunity</sub></td>
 </tr>
 </table>
 
 <br/>
 
-## 🚀 Highlighted Project
+## Featured Project
 
-<div align="center">
+### SignBridge — Real-Time ASL Translation Platform
+<sub>placeholder name — swap in your actual repo name and link once it's public</sub>
 
-### 🧠 [ManobalAI](https://github.com/Pranaya-sht/ManobalAI)
-*A supportive mental health companion chatbot designed to assist students and individuals navigating daily stress, isolation, or anxiety.*
+This platform bridges the communication gap between written/spoken English and American Sign Language. It combines a hybrid deep learning model for real-time webcam gesture translation, a rule-based English-to-ASL grammar glosser, and a Next.js 15 dashboard with gamified learning, custom quizzes, and analytics.
 
-<a href="https://github.com/Pranaya-sht/ManobalAI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pranaya-sht&repo=ManobalAI&theme=default&hide_border=true&title_color=00599C&text_color=333&icon_color=00599C" alt="ManobalAI repo card"/>
-</a>
+<p>
+<img src="https://img.shields.io/badge/Next.js%2015-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js 15"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/MediaPipe-00A98F?style=flat-square" alt="MediaPipe"/>
+<img src="https://img.shields.io/badge/NLTK-306998?style=flat-square" alt="NLTK"/>
+<img src="https://img.shields.io/badge/React_Flow-FF0072?style=flat-square&logo=react&logoColor=white" alt="ReactFlow"/>
+</p>
 
-`Python` · `NLP` · `Chatbot Frameworks` · `Mental Health Tech`
+**[View Repository →](https://github.com/Pranaya-sht/SignBridge)**
 
-</div>
+**Key Features**
+
+**1. Real-Time ASL Video Translation**
+- Landmark Tracking — tracks user movement using MediaPipe Holistic (11 pose points, 21 left-hand points, 21 right-hand points).
+- Deep Learning Engine — translates 30-frame sequence streams into dynamic word classifications using a hybrid Conv1D + BiLSTM + Multi-Head Self-Attention model.
+- Performance Optimization — applies feature scaling and normalization based on training-set IQR and medians for resilient, low-latency predictions.
+
+**2. English-to-ASL Text Glossing**
+- ASL Grammar Engine — restructures written English into standard ASL syntax order (TIME – TOPIC – COMMENT – WH).
+- NLP Pipeline — uses NLTK tokenizers and lemmatizers to resolve contractions, handle spatial index mapping (this, that), replace pronouns, and isolate instrumental phrases.
+- Video Playback — maps parsed tokens onto the WLASL dataset's video clips, rendering translations as a continuous sequence.
+
+**3. Gamified Study Sandbox**
+- Dynamic Flashcards — dual-sided cards (word on front, ASL demo video on back) with bookmarking, learned flags, and feedback.
+- Adaptive Quizzes — a 10-level progressive quiz system with randomly generated video-based distractors.
+- Daily Practice & Scheduler — generates 5 adaptive daily cards based on current level, tracks consistency, and supports custom study reminders.
+
+**4. Analytics & Progress Visualization**
+- Interactive Skill Trees — ReactFlow graphs mapping levels and concept tags.
+- Skill Radar — radar chart across Knowledge, Practice, Accuracy, Satisfaction, Quizzes, Completion, and Engagement.
+- Consistency Heatmap — visualizes daily activity over a 30-day period.
+
+**Technical Architecture**
+
+```
+  [ USER TEXT INPUT ]                    [ WEBCAM INPUT FRAME ]
+          │                                        │
+          ▼                                        ▼
+   ( NLTK POS Tagger )                    ( MediaPipe Holistic )
+          │                                        │
+   ( Lemmatizer (WordNet) )                        ▼
+          │                            [ Extract Core Keypoints ]
+   ( ASL Grammar Resolver )               • 11 Pose Coordinates
+   - Time-Topic-Comment-Wh                • 21 Left Hand Coordinates
+          │                               • 21 Right Hand Coordinates
+          ▼                                        │
+   [ Mapping Dictionary ]                          ▼
+   - WLASL Video Database                 [ Robust Scaling (IQR) ]
+          │                                        │
+          ▼                                        ▼
+ ┌──────────────────┐                     [ Hybrid Deep Network ]
+ │ Next.js Sequence │                     • Conv1D Pathway
+ │   Video Player   │                     • Bi-LSTM Sequential Pathway
+ └──────────────────┘                     • Multi-Head Self-Attention
+                                                   │
+                                                   ▼
+                                          [ Softmax Classification ]
+```
 
 <br/>
 
-## 🛠️ Tech Stack & Skills
+## Skills
+
+<sub>self-rated — adjust the percentages to match your own level</sub>
+
+![Python](https://progress-bar.dev/85/?title=Python&width=400&color=00599C)
+![JavaScript](https://progress-bar.dev/75/?title=JavaScript&width=400&color=00599C)
+![React%20%2F%20Next.js](https://progress-bar.dev/70/?title=React+%2F+Next.js&width=400&color=00599C)
+![C%2B%2B](https://progress-bar.dev/65/?title=C%2B%2B&width=400&color=00599C)
+![NLP%20%2F%20Deep%20Learning](https://progress-bar.dev/70/?title=NLP+%2F+Deep+Learning&width=400&color=00599C)
+![SQL](https://progress-bar.dev/60/?title=SQL&width=400&color=00599C)
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=python,js,cpp,c,html,css,react,nodejs,mysql,git,github,vscode" alt="Tech stack icons"/>
-
 </div>
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | Python · JavaScript · C++ · C |
-| **Web Dev** | HTML5 · CSS3 · React · Node.js |
-| **Databases & Versioning** | MySQL · Git · GitHub |
-| **Exploring** | NLP · Chatbot Frameworks · Deep Learning |
 
 <br/>
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Pranaya-sht&show_icons=true&theme=default&hide_border=true&title_color=00599C&icon_color=00599C&text_color=333&count_private=true" alt="GitHub Stats" width="49%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranaya-sht&layout=compact&theme=default&hide_border=true&title_color=00599C&text_color=333" alt="Top Languages" width="38%"/>
-
-<img src="https://streak-stats.demolab.com/?user=Pranaya-sht&theme=default&hide_border=true&ring=00599C&fire=00599C&currStreakLabel=00599C" alt="GitHub Streak" width="60%"/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=Pranaya-sht&theme=flat&no-frame=true&column=6&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
 
@@ -92,7 +141,7 @@ Pranaya:
 
 <br/>
 
-## 📫 Let's Connect
+## Contact
 
 <div align="center">
 
@@ -111,7 +160,7 @@ Pranaya:
 
 <br/><br/>
 
-*Thanks for stopping by — always open to a chat about software, AI, or opportunities to build something meaningful together.*
+*Feel free to reach out — always happy to talk about software, NLP, or potential opportunities.*
 
 </div>
 
